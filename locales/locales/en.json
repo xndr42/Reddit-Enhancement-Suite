@@ -1209,6 +1209,12 @@
 	"readCommentsMonitorWhenIncognitoDesc": {
 		"message": "Keep track while browsing in incognito/private mode."
 	},
+	"addCommentSortPrefMenuItemDesc": {
+		"message": "Add a preferences shortcut link to sort by drop down menu."
+	},
+	"addCommentSortPrefMenuItemLinkTitle": {
+		"message": "Set default sort by preferences"
+	},
 	"nightModeName": {
 		"message": "Night Mode"
 	},
@@ -3703,6 +3709,24 @@
 	},
 	"userHighlightOPColorHoverDesc": {
 		"message": "Color used to highlight OP on hover."
+	},
+	"userHighlightOpMentionsTitle": {
+		"message": "Highlight OP mentions"
+	},
+	"userHighlightOpMentionsDesc": {
+		"message": "Highlight users who are mentioned by the OP in self-posts."
+	},
+	"userHighlightOpMentionsColorTitle": {
+		"message": "Mentioned User Color"
+	},
+	"userHighlightOpMentionsColorDesc": {
+		"message": "Color to use to highlight mentioned users."
+	},
+	"userHighlightOpMentionsHoverTitle": {
+		"message": "Mentioned User Hover"
+	},
+	"userHighlightOpMentionsHoverDesc": {
+		"message": "Color to use to highlight mentioned users on hover."
 	},
 	"userHighlightHighlightAdminTitle": {
 		"message": "Highlight Admin"

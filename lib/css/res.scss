@@ -162,6 +162,28 @@ body.res-console-open {
 	}
 }
 
+#PHPrefs {
+	cursor: pointer;
+	margin-left: 4px;
+}
+
+.pinIcon {
+	text-decoration: none !important;
+	position: relative;
+
+	&::before,
+	&::after {
+		font: normal 14px/1 'Batch';
+		vertical-align: middle;
+	}
+
+	&::after {
+		content: '\1F4CC';
+		color: transparent;  
+		text-shadow: 0 0 0 #888;
+	}
+}
+
 #RESAnnouncementAlert {
 	display: inline-block;
 	vertical-align: bottom;
